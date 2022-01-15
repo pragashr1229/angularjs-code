@@ -1,0 +1,3 @@
+[submodule "app2"]
+	path = app2
+	url = https://github.com/pragashr1229/angularjs-code.git
